@@ -23,6 +23,7 @@
     "fs": "0.0.1-security",
     "grpc": "^1.24.9",
     "ml-kmeans": "^4.2.1",
+    "node-windows": "^1.0.0-beta.6",
     "nodemailer": "^6.4.16",
     "papaparse": "^5.2.0",
     "path": "^0.12.7",
